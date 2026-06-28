@@ -70,5 +70,4 @@ knowledge.py         — Main pipeline: classify, embed, store
 knowledge_search.py  — Interactive semantic search CLI
 like.js              — Twitter likes export (input)
 knowledge.db         — SQLite database (generated)
-knowledge_backup.db  — Database backup
 ```
